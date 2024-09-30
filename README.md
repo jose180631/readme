@@ -13,7 +13,7 @@
 
 ## 💻 Intereses
 - **Gimnasio:** Siempre buscando superarme físicamente 💪
-- **Informática:** Desde montar PCs hasta jugar en los mejores setups 🖥️
+- **Informática:**  Montar PCs 🖥️
 - **Gaming:** ¡Me encanta sumergirme en diferentes mundos virtuales! 🎮
 
 ---
@@ -33,7 +33,7 @@
 - **Especialista en Gaming y Hardware**: Desde montar PCs hasta optimizarlos para correr los juegos más exigentes.
 - **Mi Setup:** 
   - Volante **Logitech** para simuladores de conducción.
-  - Equipo personalizado para correr juegos como **Forza Horizon 5** y **Valorant** al máximo rendimiento.
+  - Portatil gaming Lenovo .
 
 ---
 
